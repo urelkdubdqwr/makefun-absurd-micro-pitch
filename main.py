@@ -1,3 +1,5 @@
+"""Write the single-sentence make.fun micro-pitch to entry.txt in the output dir."""
+
 import os
 
 ENTRY = (
